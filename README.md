@@ -20,7 +20,7 @@ The main aims and objective of this project is to build a computerized course ma
 •	Elucidate the designs of the proposed system to the stakeholder and deploy after both parties are satisfied with the final product.
 
 
-##4. Screenshots 
+## 4. Screenshots 
 ![image](https://user-images.githubusercontent.com/61860925/181879551-ce317be3-56fd-4cc1-b4d8-74af90622191.png)
 ![image](https://user-images.githubusercontent.com/61860925/181879553-20bb01cb-52e5-42dc-acab-38310601968a.png)
 ![image](https://user-images.githubusercontent.com/61860925/181879555-6b86f364-fbef-4c81-98e8-9f3d63b947a7.png)
